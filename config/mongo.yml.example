@@ -1,0 +1,9 @@
+development:
+   adapter: mongodb
+   database: mongodb_development
+   host: localhost
+
+test:
+  adapter: mongodb
+  database: mongodb_test
+  host: localhost
